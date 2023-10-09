@@ -1,0 +1,10 @@
+.container{
+    width: 100%;
+}
+.leaf{
+    margin: 200px auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 0 100%;
+    background-image: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147));
+}
